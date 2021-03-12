@@ -9,7 +9,7 @@ aaaa
 
 ===========
 
-*aa
+*aa*
 
 
 .. image:: image/dog.jpg
